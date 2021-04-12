@@ -2,7 +2,7 @@
 
 ## Installing spacemacs
 
-1. Download emacs
+1. Download emacs - https://mirrors.tripadvisor.com/gnu/emacs/windows/emacs-26/emacs-26.2-x86_64.zip
 2. git clone https://github.com/syl20bnr/spacemacs 
 3. cd %APPDATA%
 4. Delete .spacemacs if there is one
